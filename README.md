@@ -1,4 +1,4 @@
-# About Grammable
+# About Flashback
 
 A single page interactive flashcard app that tells the story of React and its role in the web industry.
 
