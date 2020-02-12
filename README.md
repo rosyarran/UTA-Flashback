@@ -2,11 +2,11 @@
 
 A single page interactive flashcard app that tells the story of React and its role in the web industry.
 
-![Home1](app/assets/images/fb1.png)
+![Home1](images/fb1.png)
 
 Simply click on the arrows to switch back and forth between cards, and click on the card itself to reveal its answer. 
 
-![Home2](app/assets/images/fb2.png)
+![Home2](images/fb2.png)
 
 ## Credits
 
